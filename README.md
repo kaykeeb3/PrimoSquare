@@ -7,7 +7,7 @@
 
 ## ✨ Descrição
 
-O **PrimoSquare** é uma aplicação em C++ que varre números de 2 a 100 e realiza as seguintes operações:
+O **PrimoSquare** é uma aplicação em C++ e Node.js que varre números de 2 a 100 e realiza as seguintes operações:
 
 - Verificação de números pares.
 - Identificação de números primos.
